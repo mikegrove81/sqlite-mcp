@@ -4,4 +4,5 @@ obj/
 *.user
 SqliteMcp/appsettings.json
 publish/
+temp/
 .claude/settings.local.json
